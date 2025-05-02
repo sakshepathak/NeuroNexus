@@ -38,7 +38,7 @@ The main goal was to experiment with different machine learning models and compa
 
 * Random Forest performed the best overall.
 * Gradient Boosting wasn't far behind.
-* Logistic Regression gave a decent baseline but showed a convergence warning (probably got tired of iterating 😅).
+* Logistic Regression gave a decent baseline but showed a convergence warning
 * SVM struggled on this dataset without heavy tuning
 
 ---
